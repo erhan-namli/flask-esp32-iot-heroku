@@ -2,6 +2,7 @@
 
 * [Flask Web Server](#flask-web-server)
 * [ESP8266 - OLED I2C](#esp8266-oled-i2c)
+* [ESP8266-GET Request to Heroku](#esp8266-get-request-to-heroku)
 
 Flask Web Server
 ============
@@ -112,6 +113,9 @@ ESP8266-OLED I2C
 
 ESP8266-GET Request to Heroku
 ============
+
+- Copy the code below and upload to ESP8266
+
 ```arduino
 #include <SPI.h>
 #include <Wire.h>
