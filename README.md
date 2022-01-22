@@ -56,5 +56,18 @@ api.add_resource(Questions, '/questions/')
 if __name__ == '__main__':
     app.run()
 ```
-
+- Before deploying the project in Heroku we have to create some folders for dependecies
+- Create a file with name Procfile and copy the code below and paste it
+```
+web: gunicorn  main:app
+```
+- Create runtime.txt and write which python version you are using in it, in my app I'm using python 3.9.7
+```
+python-3.9.7
+```
+- Now we have to define requirements, open the terminal in project file and write the code below
+```
+pip freeze > requirements.txt
+```
+## Heroku
 
