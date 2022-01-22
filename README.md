@@ -2,11 +2,10 @@
 
 * [Flask Web Server](#flask-web-server)
 
-
-## Deploy a Web Server on Heroku with Flask
-
 Flask Web Server
 ============
+
+## Deploy a Web Server on Heroku with Flask
 
 ### Creating a virtual environment for Flask requirements
 
