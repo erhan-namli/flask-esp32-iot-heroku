@@ -105,7 +105,7 @@ git push heroku master
 ```
 - This project live in https://play-ard.herokuapp.com/questions/, you can visit
 
-ESP8266 - OLED I2C
+ESP8266-OLED I2C
 ============
 
 
