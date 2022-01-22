@@ -8,8 +8,6 @@
 Flask Web Server
 ============
 
-## Deploy a Web Server on Heroku with Flask
-
 ### Creating a virtual environment for Flask requirements
 
 - Create a directory with the name you want
