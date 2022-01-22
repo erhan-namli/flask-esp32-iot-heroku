@@ -97,4 +97,4 @@ heroku git:remote -a play-Ard
 ```
 git push heroku master
 ```
-- This project live in http://play-ard.herokuapp.com/questions/, you can visit
+- This project live in https://play-ard.herokuapp.com/questions/, you can visit
