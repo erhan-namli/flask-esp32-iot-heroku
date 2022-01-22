@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Flask Web Server](#flask-web-server)
-* [ESP8266 - OLED I2C](#flask-web-server)
+* [ESP8266 - OLED I2C](#esp8266-oled-i2c)
 
 Flask Web Server
 ============
