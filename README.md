@@ -201,3 +201,8 @@ void loop() {
   delay(1000);    //Send a request every 30 seconds
 }
 ```
+
+Result
+============
+
+![Screenshot](real-image.jpg)
