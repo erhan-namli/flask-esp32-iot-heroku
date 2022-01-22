@@ -26,7 +26,7 @@ pip install Flask-Cors
 ```
 ### Creating a Flask App
 - Then create a main.py file, copy the code below and paste in it.
-```
+```python
 from flask import Flask, jsonify
 from flask_restful import Resource, Api
 from flask_cors import CORS
@@ -70,4 +70,8 @@ python-3.9.7
 pip freeze > requirements.txt
 ```
 ## Heroku
-
+- Firstly you have to install Heroku CLI, you can follow that link to install Heroku CLI : https://devcenter.heroku.com/articles/heroku-cli
+- Then after, open the terminal in project file then copy the codes below one by one
+```
+heroku login
+```
