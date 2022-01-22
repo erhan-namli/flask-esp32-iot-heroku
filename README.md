@@ -107,5 +107,5 @@ git push heroku master
 
 ESP8266-OLED I2C
 ============
-
+- Wiring OLED and ESP8266
 ![Screenshot](esp8266-oled.png)
