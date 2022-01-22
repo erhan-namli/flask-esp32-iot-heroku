@@ -3,11 +3,10 @@
 * [Flask Web Server](#flask-web-server)
 * [ESP8266 - OLED I2C](#esp8266-oled-i2c)
 * [ESP8266-GET Request to Heroku](#esp8266-get-request-to-heroku)
+* [Result](#result)
 
 Flask Web Server
 ============
-
-## Deploy a Web Server on Heroku with Flask
 
 ### Creating a virtual environment for Flask requirements
 
