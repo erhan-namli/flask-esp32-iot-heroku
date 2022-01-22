@@ -71,7 +71,29 @@ pip freeze > requirements.txt
 ```
 ## Heroku
 - Firstly you have to install Heroku CLI, you can follow that link to install Heroku CLI : https://devcenter.heroku.com/articles/heroku-cli
+- Then you have to install git on your system, you can follow the link : https://git-scm.com/
 - Then after, open the terminal in project file then copy the codes below one by one
 ```
 heroku login
+```
+- You can change the play-Ard section with whatever you want
+```
+heroku create play-Ard --buildpack heroku/python
+```
+- Then, initialize the git
+```
+git init
+```
+```
+git add .
+```
+```
+git commit -m "Flask-playArd"
+```
+```
+heroku git:remote -a play-Ard
+```
+- If you come here with no error, we can finally deploy our project to Heroku 
+```
+git push heroku master
 ```
