@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Flask Web Server](#FlaskWebServer)
+* [Flask Web Server](#flask-web-server)
 
 
 # Deploy a Web Server on Heroku with Flask
